@@ -3,6 +3,10 @@
         {
             "name": "Document Printing",
             "price": "10"
+        },
+        {
+            "name": "Photo Printing",
+            "price": "50"
         }
     ]
 }
