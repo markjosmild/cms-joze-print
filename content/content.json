@@ -1,7 +1,11 @@
 {
     "Services": [
         {
-            "name": "Document Printing",
+            "name": "Document Printing B&W",
+            "price": "5"
+        },
+        {
+            "name": "Document Printing Colored",
             "price": "10"
         },
         {
