@@ -1,5 +1,5 @@
 {
-    "Services": [
+    "services": [
         {
             "name": "Document Printing B&W",
             "price": "5"
@@ -11,6 +11,12 @@
         {
             "name": "Photo Printing",
             "price": "50"
+        }
+    ],
+    "packages": [
+        {
+            "name": "p1",
+            "link": "https://github.com/markjosmild/cms-joze-print/blob/main/packages/p1.png?raw=true"
         }
     ]
 }
