@@ -17,6 +17,14 @@
         {
             "name": "p1",
             "link": "https://github.com/markjosmild/cms-joze-print/blob/main/packages/p1.jpg?raw=true"
+        },
+        {
+            "name": "p2",
+            "link": "https://github.com/markjosmild/cms-joze-print/blob/main/packages/p2.png?raw=true"
+        },
+        {
+            "name": "p3",
+            "link": "https://github.com/markjosmild/cms-joze-print/blob/main/packages/p3.png?raw=true"
         }
     ]
 }
