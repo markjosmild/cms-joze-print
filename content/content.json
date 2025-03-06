@@ -1,17 +1,11 @@
 {
     "services": [
-        {
-            "name": "Document Printing B&W",
-            "price": "5"
-        },
-        {
-            "name": "Document Printing Colored",
-            "price": "10"
-        },
-        {
-            "name": "Photo Printing",
-            "price": "50"
-        }
+        "DOCUMENT PRINTING",
+        "PHOTO PRINTING",
+        "RUSH ID PACKAGE",
+        "POLAROID/INSTAX PRINT",
+        "PHOTOSTRIP PRINT",
+        "PHOTOBOOTH PRINT"
     ],
     "packages": [
         {
