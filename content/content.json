@@ -28,5 +28,31 @@
             "name": "p5",
             "link": "https://github.com/markjosmild/cms-joze-print/blob/main/packages/p5.png?raw=true"
         }
+    ],
+    "contact_us": [
+        {
+            "name": "title",
+            "value": "Send us a message"
+        },
+        {
+            "name": "location",
+            "icon": "place",
+            "value": "AC Cortes Avenue Alang-Alang Mandaue City, Cebu"
+        },
+        {
+            "name": "contact",
+            "icon": "call",
+            "value": "+63 991 647 3533"
+        },
+        {
+            "name": "email address",
+            "icon": "mail",
+            "value": "hzlprinting@gmail.com"
+        },
+        {
+            "name": "messenger",
+            "icon": "chat",
+            "value": "Joze Print"
+        }
     ]
 }
